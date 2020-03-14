@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "fund": "^1.0.0",
+    "stripe": "^8.32.0",
     "uuid": "^3.4.0"
   }
 }
